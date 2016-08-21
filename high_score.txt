@@ -1,0 +1,1 @@
+{"Face Controlled": 30, "Eye Controlled": 55, "Hand Controlled": 25, "Sticky Note Controlled": 15}
